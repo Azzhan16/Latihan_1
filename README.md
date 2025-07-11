@@ -1,2 +1,2 @@
-# Latihan_1
+# Latihan_python
 Latihan_1
